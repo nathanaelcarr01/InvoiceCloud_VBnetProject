@@ -1,0 +1,8 @@
+/Users/nathanael/Google Drive (nathanaelcarr01@gmail.com)/RiderPrograms/InvoiceCloud_VBnetProject/InvoiceCloud/bin/Debug/InvoiceCloud.exe
+/Users/nathanael/Google Drive (nathanaelcarr01@gmail.com)/RiderPrograms/InvoiceCloud_VBnetProject/InvoiceCloud/bin/Debug/InvoiceCloud.pdb
+/Users/nathanael/Google Drive (nathanaelcarr01@gmail.com)/RiderPrograms/InvoiceCloud_VBnetProject/InvoiceCloud/bin/Debug/InvoiceCloud.xml
+/Users/nathanael/Google Drive (nathanaelcarr01@gmail.com)/RiderPrograms/InvoiceCloud_VBnetProject/InvoiceCloud/obj/Debug/InvoiceCloud.vbprojResolveAssemblyReference.cache
+/Users/nathanael/Google Drive (nathanaelcarr01@gmail.com)/RiderPrograms/InvoiceCloud_VBnetProject/InvoiceCloud/obj/Debug/InvoiceCloud.vbproj.CoreCompileInputs.cache
+/Users/nathanael/Google Drive (nathanaelcarr01@gmail.com)/RiderPrograms/InvoiceCloud_VBnetProject/InvoiceCloud/obj/Debug/InvoiceCloud.exe
+/Users/nathanael/Google Drive (nathanaelcarr01@gmail.com)/RiderPrograms/InvoiceCloud_VBnetProject/InvoiceCloud/obj/Debug/InvoiceCloud.xml
+/Users/nathanael/Google Drive (nathanaelcarr01@gmail.com)/RiderPrograms/InvoiceCloud_VBnetProject/InvoiceCloud/obj/Debug/InvoiceCloud.pdb
