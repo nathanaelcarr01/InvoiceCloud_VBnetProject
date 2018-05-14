@@ -8,14 +8,15 @@ Module Module1
             ' This reads the files
             For Each line In File.ReadAllLines("/Users/nathanael/Google Drive (nathanaelcarr01@gmail.com)/RiderPrograms/InvoiceCloud_VBnetProject/ICTest.txt")
                 ' This splits the lines at ','
-                Dim sentence As String() = line.Split(New Char() {","c})
+                Dim sentence As String() = line.Split(CChar(vbCrLf))
                 Dim sentences As String
                 ' This sends the string formatted
                 For Each sentences In sentence
-                    Console.WriteLine(sentences)
+                    Dim sentences1 As String = sentences.Replace("," , " | ")
+                    Console.WriteLine(sentences1)
                     ' This writes to the file
                     Using writer As New StreamWriter("/Users/nathanael/Google Drive (nathanaelcarr01@gmail.com)/RiderPrograms/InvoiceCloud_VBnetProject/ICTestOutput.txt", True)
-                        writer.WriteLine(sentences)
+                        writer.WriteLine(sentences1)
                     End Using
                 Next
             Next
