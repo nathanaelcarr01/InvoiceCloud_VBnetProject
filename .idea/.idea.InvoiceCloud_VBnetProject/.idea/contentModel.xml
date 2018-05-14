@@ -12,6 +12,7 @@
           <e p="AssemblyInfo.vb" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
+        <e p="README.txt" t="Include" />
       </e>
       <e p="InvoiceCloud_VBnetProject.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
